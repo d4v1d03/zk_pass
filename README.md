@@ -56,7 +56,7 @@ Each RFP includes specific rewards for successful proposals, with higher rewards
 
 ## Getting Started
 
-Review [open RFPs](https://zkpass.org](https://github.com/zkPassOfficial/Eco-Grants/issues) and comment.
+Review [open RFPs](https://github.com/zkPassOfficial/Eco-Grants/issues) and comment.
 
 ## Stay Connected
 
