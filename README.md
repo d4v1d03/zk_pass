@@ -1,4 +1,4 @@
-# Eco-Grants
+# Eco-Grants 🛠️
 # zkPass Eco-Grants
 
 Welcome to the **zkPass Eco-Grants** repository, where we host a series of Request for Proposals (RFPs) designed to enhance and expand the zkPass ecosystem. Our goal is to engage the developer community in building innovative solutions, tools, and integrations that will strengthen zkPass's position as a leading privacy-preserving oracle protocol.
