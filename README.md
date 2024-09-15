@@ -1,6 +1,6 @@
-# Eco-Grants 🛠️
+# Eco Bounty Program 🛠️
 
-Welcome to the **zkPass Eco-Grants** repository, where we host a series of Request for Proposals (RFPs) designed to enhance and expand the zkPass ecosystem. Our goal is to engage the developer community in building innovative solutions, tools, and integrations that will strengthen zkPass's position as a leading privacy-preserving oracle protocol.
+Welcome to the **zkPass Eco Bounty Program** repository, where we host a series of Request for Proposals (RFPs) designed to enhance and expand the zkPass ecosystem. Our goal is to engage the developer community in building innovative solutions, tools, and integrations that will strengthen zkPass's position as a leading privacy-preserving oracle protocol.
 
 ## About zkPass
 
@@ -10,9 +10,9 @@ zkPass allows users to selectively prove various types of data, such as legal id
 
 This repository is part of our initiative to support the zkPass ecosystem through grants, hackathons, and bounties that incentivize developers to contribute to the protocol's growth.
 
-## How Eco-Grants Work
+## How Eco Bounty Program Works
 
-The **Eco-Grants** initiative provides developers with the opportunity to participate in challenges and tasks outlined in various RFPs. These RFPs focus on different areas of zkPass’s technology stack and offer rewards for innovative and impactful contributions.
+The **Eco Bounty Program** initiative provides developers with the opportunity to participate in challenges and tasks outlined in various RFPs. These RFPs focus on different areas of zkPass’s technology stack and offer rewards for innovative and impactful contributions.
 
 ### What You Can Do
 Participants can:
