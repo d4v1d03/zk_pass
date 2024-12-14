@@ -1,0 +1,39 @@
+{
+    "issuer": "Medium",
+    "desc": "Medium is a publishing platform where people can read important, insightful stories on the topics that matter most to them and share ideas with the world.",
+    "website": "https://medium.com/",
+    "APIs": [
+        {
+            "host": "medium.com",
+            "intercept": {
+                "url": "https://itsrorymurphy.medium.com/_/graphql",
+                "method": "POST",
+                "query": [
+                    {
+                        "operationName": "UserSearchQuery",
+                        "verify": "true"
+                    }
+                ]
+             },
+             "assert":[ 
+                {
+                "key": "data|userResult|_typename",
+                "value": "User",
+                "operation": "="
+             },
+             {
+                "key": "data|userResult|id",
+                "value": "ef945a4fddd0",
+                "operation": "="
+             }
+            ],
+             "nullifier": "data|userResult|id"
+            }
+    ],
+    "HRcondition": [
+        "Quora Account Owner"
+    ],
+    "tips": {
+    "message": "When you successfully log in, please click the 'Start' button to initiate the verification process."
+  }
+}
